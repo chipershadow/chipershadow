@@ -13,16 +13,13 @@ I am a cybersecurity student and security researcher focused on smart contract s
 ---
 
 ### Security Focus
-* **Smart Contract Security**: Auditing Solidity smart contracts, access control verification, reentrancy defense, and arithmetic correctness.
-* **EVM Security**: EVM execution semantics, call graph tracing, low-level calls (`delegatecall`, `call`), and state consistency.
+
 * **Network & Systems Security**: Linux environments (Parrot OS / Debian), network protocol analysis, and penetration testing fundamentals.
 * **DevSecOps**: Git hygiene, secret detection, pre-commit automation, and reproducible security test harnesses.
 
 ---
 
-### What I'm Building
-* **Web3 Security Starter**: A hardened starter framework and repository baseline for smart contract audits, featuring automated secret leak prevention, EVM vulnerability rule engines, and reference implementations.
-* **Smart Contract Security Lab**: Reproducible testbeds for practicing exploit reproduction and mitigation on local EVM environments.
+
 
 ---
 
@@ -30,7 +27,6 @@ I am a cybersecurity student and security researcher focused on smart contract s
 
 #### Languages & Scripting
 * Python 3
-* Solidity
 * Bash / Shell
 * JavaScript
 
